@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 ipykernel = "*"
+pandas = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
