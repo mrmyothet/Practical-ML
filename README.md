@@ -35,3 +35,7 @@
 ---
 
 - https://github.com/openai/whisper
+
+### Machine Learning
+
+- [Towards Data Science](https://towardsdatascience.com/)
