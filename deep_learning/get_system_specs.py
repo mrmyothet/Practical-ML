@@ -74,3 +74,9 @@ def get_system_specs_details():
 
 # get_system_specs()
 get_system_specs_details()
+
+
+# Note: GPU support on native-Windows is only available for 2.10 or earlier versions,
+# starting in TF 2.11, CUDA build is not supported for Windows.
+# For using TensorFlow GPU on Windows, you will need to build/install TensorFlow in WSL2
+# or use tensorflow-cpu with TensorFlow-DirectML-Plugin
