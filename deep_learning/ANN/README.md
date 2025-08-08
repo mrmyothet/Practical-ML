@@ -1,3 +1,9 @@
+# Artifical Neural Network (ANN)
+
+Please see this for Slides
+
+- https://github.com/tharhtetsan/zero_2_hero_ml/tree/main/7_Deep_Learning/ANN
+
 ## Create anaconda for python
 
 ```bash
@@ -64,12 +70,11 @@ import matplotlib.pyplot as plt
 
 - Operating System - Linux
 - Architecture - x86_64
-- Distribution - WSL Ubuntu 
-- Version - 2.0 
+- Distribution - WSL Ubuntu
+- Version - 2.0
 - Installer Type - deb (local)
 
-
-```bash 
+```bash
 wget https://developer.download.nvidia.com/compute/cuda/repos/wsl-ubuntu/x86_64/cuda-wsl-ubuntu.pin
 sudo mv cuda-wsl-ubuntu.pin /etc/apt/preferences.d/cuda-repository-pin-600
 wget https://developer.download.nvidia.com/compute/cuda/12.2.2/local_installers/cuda-repo-wsl-ubuntu-12-2-local_12.2.2-1_amd64.deb
