@@ -16,6 +16,8 @@ pipenv install tensorflow
 pipenv install python-dotenv
 pipenv install gunicorn
 
+pipenv run python main.py
+
 ```
 
 ```bash
